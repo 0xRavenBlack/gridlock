@@ -1,0 +1,10 @@
+# Godot engine cache / imported resources
+.godot/
+
+# Exported builds and generated artifacts
+build/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
