@@ -10,6 +10,7 @@ Drag three pieces onto a 10×10 board, complete rows and columns to clear them,
 and chain clears for combo bonuses. The run ends when none of the remaining
 pieces fit — *gridlock*.
 
+![Release](https://img.shields.io/github/v/release/0xRavenBlack/gridlock?color=ff5fa2&label=release)
 ![Godot](https://img.shields.io/badge/Godot-4.7-478cbf?logo=godotengine&logoColor=white)
 ![Renderer](https://img.shields.io/badge/renderer-Forward%2B-a25bff)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-2be0e0)
