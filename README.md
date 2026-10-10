@@ -16,6 +16,7 @@ pieces fit — *gridlock*.
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-2be0e0)
 ![Tests](https://img.shields.io/badge/tests-128%20passing-3be08b)
 ![Made with GDScript](https://img.shields.io/badge/made%20with-GDScript-ff5fa2)
+![License](https://img.shields.io/badge/license-MIT-3be08b)
 
 <img src="docs/screenshots/main_menu.png" alt="GRIDLOCK main menu" width="300">
 
@@ -223,3 +224,7 @@ gridlock/
 
 An original homage to the classic **1010!** block puzzle. Game design, code,
 generated art and generated audio by the GRIDLOCK project.
+
+## 📄 License
+
+Released under the [MIT License](LICENSE).
